@@ -1,5 +1,7 @@
 import {Component} from '@angular/core';
 
+// import {LocalizeRouterService} from 'localize-router';
+
 @Component({
     moduleId: module.id,
     selector: 'app',
